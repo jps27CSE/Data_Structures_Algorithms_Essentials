@@ -36,6 +36,10 @@ int main()
    {
        cout<<key<<"is at position "<<index;
    }
+   else
+   {
+       cout<<"Key not found";
+   }
 
    return 0;
 
